@@ -50,7 +50,7 @@ mod = Mod('decreased_mayhem_enemy_scaling.bl3hotfix',
 #scaling = [1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6]
 
 # My most recent values (even more pathetic!)
-scaling = [1.5, 2, 2.5, 3, 3.5, 4, 4.5, 4.5, 5, 5, 5]
+scaling = [1.5, 2, 2.5, 3, 5, 10, 15, 20, 25, 30, 30]
 
 for mayhem_level_minus_one, scale_value in enumerate(scaling):
     mayhem_level = mayhem_level_minus_one + 1
